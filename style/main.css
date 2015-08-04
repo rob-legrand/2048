@@ -6,7 +6,7 @@ html, body {
   background: #9cc2d2;
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: Garamond, Georgia, serif;
   font-size: 18px; }
 
 body {
@@ -97,7 +97,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #0c92bf;
+  background: #882255;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -270,7 +270,7 @@ hr {
     vertical-align: middle;
     margin-left: 10px; }
   .game-message.game-won {
-    background: rgba(237, 194, 46, 0.5);
+    background: rgba(240, 180, 210, 0.5);
     color: #f9f6f2; }
     .game-message.game-won a.keep-playing-button {
       display: inline-block; }
